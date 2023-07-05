@@ -1,0 +1,24 @@
+.bg{
+    background-color:yellow;
+    
+}
+.img{
+    height: 10rem;
+    width: 10rem;
+}
+.main {
+    height: 15rem;
+    width: 15rem;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-right: 1rem; /* Added margin to create space between videos */
+    color: white;
+  }
+  
+  .App {
+    display: flex; /* Added flex display to App component */
+  }
+  
